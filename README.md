@@ -1,4 +1,4 @@
-# Hi, I'm Muneeba Khurram 👋
+# Hi, I'm Muneeba Khurram 
 
 ## 🎓 About Me
 I am a **Software Engineer Graduate** passionate about building scalable web applications and solving real-world problems through technology. Skilled in full-stack development with hands-on experience in modern web frameworks and tools.
@@ -14,7 +14,7 @@ I am a **Software Engineer Graduate** passionate about building scalable web app
 - [ServiceOnTab](https://github.com/Muneeba345/ServiceOnTab-Frontend.git)  
   A home service platform connecting consumers with verified electricians, plumbers, and mechanics. Includes booking, reviews, and admin controls.
   
-- [ServiceOnTab](https://github.com/Muneeba345/ServiceOnTab-backend.git)  
+- [ServiceOnTab](https://github.com/Muneeba345/ServiceonTab_backend.git))  
   A home service platform connecting consumers with verified electricians, plumbers, and mechanics. Includes booking, reviews, and admin controls.
 
 
